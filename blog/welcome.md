@@ -18,12 +18,6 @@ W3-Energy.org is dedicated to bridging the gap between traditional energy market
 
 ## The Energy-Web3 Convergence
 
-# Welcome to the W3 Energy Official Blog — Bridging Traditional Energy Markets with Web3 Innovation and Decentralized Finance
-
-## Introduction
-
-Welcome to the W3 Energy official blog - your authoritative source for insights, analysis, and intelligence at the intersection of traditional energy markets and Web3 innovation. This publication serves as the definitive guide to understanding how blockchain technology and decentralized finance are transforming the global energy landscape.
-
 ## Our Mission
 
 W3-Energy.org is dedicated to bridging the gap between traditional energy markets, RWA and the Web3 ecosystem. We believe that the convergence of these sectors presents unprecedented opportunities for:
@@ -106,24 +100,24 @@ The energy transition represents one of the most significant economic opportunit
 
 ### Stay Connected
 
-* 📧 **Subscribe to our newsletter** for weekly market insights and monthly deep-dive reports
-* 🐦 **Follow us on Twitter/X** [@w3energy_org] for real-time market updates and breaking news
-* 💼 **Connect on LinkedIn** for professional insights and networking opportunities
-* 📱 **Join our Telegram community** [@w3energy_org] to engage with fellow investors and industry experts
+* 📧 **[Subscribe to our newsletter](https://w3-energy.org/)** for market insights and monthly deep-dive reports
+* 🐦 **[Follow us on Twitter/X](https://twitter.com/w3energy_org)** [@w3energy_org] to say connected & never miss out on updates
+* 🔗 **[Explore on Sepolia Testnet](https://testnet.w3-energy.org/app)** Live previews, feature testing & exploration of the platform
+* 💬 **[Join our Telegram community](t.me/w3energy_org)** [@w3energy_org] join the community and stay connected with the tribe
 
 ### Get Involved
 
-* **Energy Project Developers**: Submit your projects for potential coverage and tokenization opportunities
-* **Institutional Investors**: Contact us for bespoke research and investment analysis
-* **Researchers & Academics**: Contribute guest articles or collaborate on industry reports
-* **Newsletter Sponsors**: Reach our targeted audience of energy and Web3 professionals
+* **Energy Project Developers**: [Submit your projects](mailto:projects@w3energy.org) for potential coverage and possible opportunities
+* **Institutional Investors**: [Contact us](mailto:institutional@w3energy.org) for bespoke consultation, collaboration and investment analysis
+* **Researchers & Academics**: [Contribute guest articles](mailto:editorial@w3energy.org) or collaborate on industry report and research 
+* **Newsletter Sponsors**: [Reach our targeted audience](mailto:partners@w3energy.org) of energy and Web3 professionals
 
 ### Contact Us
 
 Have questions, feedback, or story suggestions? We'd love to hear from you:
 * 📧 Email: editorial@w3energy.com
 * 💬 Media inquiries: press@w3energy.com
-* 🤝 Partnership opportunities: partnerships@w3energy.com
+* 🤝 Partnership opportunities: partners@w3energy.com
 
 Stay tuned for regular updates as we explore the fascinating intersection of energy markets and decentralized finance. Together, we're building the future of energy finance.
 
@@ -133,10 +127,10 @@ Stay tuned for regular updates as we explore the fascinating intersection of ene
 
 **Investment Risk Warning**: The content published on this blog is for informational and educational purposes only and should not be construed as investment advice, financial advice, trading advice, or any other type of advice. You should not make any investment decisions based solely on the information provided in our publications.
 
-**No Financial Advice**: The opinions expressed herein are those of W3 Energy and our contributors and do not constitute personalized investment recommendations. All investments carry risk, including the potential loss of principal. Past performance does not guarantee future results.
+**No Financial Advice**: The opinions expressed herein are those of W3-Energy.org and our contributors and do not constitute personalized investment recommendations. All investments carry risk, including the potential loss of principal. Past performance does not guarantee future results.
 
 **Forward-Looking Statements**: This blog may contain forward-looking statements regarding market trends, technology developments, and investment opportunities. These statements are based on current expectations and assumptions and are subject to risks and uncertainties that could cause actual results to differ materially.
 
 **Regulatory Compliance**: Energy and digital asset markets are subject to evolving regulatory frameworks. Readers should consult with qualified legal and financial professionals before making investment decisions and ensure compliance with applicable laws and regulations in their jurisdiction.
 
-**Third-Party Content**: References to third-party projects, platforms, or investments are for informational purposes only and do not constitute endorsements. W3 Energy does not guarantee the accuracy, completeness, or reliability of third-party information.
+**Third-Party Content**: References to third-party projects, platforms, or investments are for informational purposes only and do not constitute endorsements. W3-Energy.org does not guarantee the accuracy, completeness, or reliability of third-party information.
