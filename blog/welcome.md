@@ -100,10 +100,10 @@ The energy transition represents one of the most significant economic opportunit
 
 ### Stay Connected
 
-* 📧 **[Subscribe to our newsletter](https://w3-energy.org/)** for market insights and monthly deep-dive reports
-* 🐦 **[Follow us on Twitter/X](https://twitter.com/w3energy_org)** [@w3energy_org] to say connected & never miss out on updates
-* 🔗 **[Explore on Sepolia Testnet](https://testnet.w3-energy.org/app)** Live previews, feature testing & exploration of the platform
-* 💬 **[Join our Telegram community](t.me/w3energy_org)** [@w3energy_org] join the community and stay connected with the tribe
+*  **[Subscribe to our newsletter](https://w3-energy.org/)** for market insights and monthly deep-dive reports
+*  **[Follow us on Twitter/X](https://twitter.com/w3energy_org)** [@w3energy_org] to say connected & never miss out on updates
+*  **[Explore on Sepolia Testnet](https://testnet.w3-energy.org/app)** Live previews, feature testing & exploration of the platform
+*  **[Join our Telegram community](t.me/w3energy_org)** [@w3energy_org] join the community and stay connected with the tribe
 
 ### Get Involved
 
