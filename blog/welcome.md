@@ -96,3 +96,15 @@ Have questions, feedback, or story suggestions? We'd love to hear from you:
 Stay tuned for regular updates as we explore the fascinating intersection of energy markets and decentralized finance. Together, we're building the future of energy finance.
 
 *Welcome to W3 Energy – where traditional energy markets meet Web3 innovation.*
+
+## Disclaimers
+
+**Investment Risk Warning**: The content published on this blog is for informational and educational purposes only and should not be construed as investment advice, financial advice, trading advice, or any other type of advice. You should not make any investment decisions based solely on the information provided in our publications.
+
+**No Financial Advice**: The opinions expressed herein are those of W3 Energy and our contributors and do not constitute personalized investment recommendations. All investments carry risk, including the potential loss of principal. Past performance does not guarantee future results.
+
+**Forward-Looking Statements**: This blog may contain forward-looking statements regarding market trends, technology developments, and investment opportunities. These statements are based on current expectations and assumptions and are subject to risks and uncertainties that could cause actual results to differ materially.
+
+**Regulatory Compliance**: Energy and digital asset markets are subject to evolving regulatory frameworks. Readers should consult with qualified legal and financial professionals before making investment decisions and ensure compliance with applicable laws and regulations in their jurisdiction.
+
+**Third-Party Content**: References to third-party projects, platforms, or investments are for informational purposes only and do not constitute endorsements. W3 Energy does not guarantee the accuracy, completeness, or reliability of third-party information.
