@@ -107,7 +107,7 @@ The energy transition represents one of the most significant economic opportunit
 
 ### Get Involved
 
-* **Energy Project Developers**: [Submit your projects](mailto:projects@w3energy.org) for potential coverage and possible opportunities
+* **Energy Project Developers**: [Tell us about your project](mailto:projects@w3energy.org) for potential partnerships and possible opportunities
 * **Institutional Investors**: [Contact us](mailto:institutional@w3energy.org) for bespoke consultation, collaboration and investment analysis
 * **Researchers & Academics**: [Contribute guest articles](mailto:editorial@w3energy.org) or collaborate on industry report and research 
 * **Newsletter Sponsors**: [Reach our targeted audience](mailto:partners@w3energy.org) of energy and Web3 professionals
